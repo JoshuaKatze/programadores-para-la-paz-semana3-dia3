@@ -1,8 +1,8 @@
 Bitácora de comando – Semana 3 Día 3
 
-Nombre del estudiante:
+Nombre del estudiante: Maria del Mar 
 Fecha:
-Nombre de la rama:
+Nombre de la rama:maria_granda
 
 Comando nuevo del día:
 npm run practicar
