@@ -1,15 +1,13 @@
 Reflexión sobre seguimiento comunitario – Semana 3 Día 3
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Joshua Daniel Fernandez Castro
+Fecha: 22 de mayo de 2026
+Nombre de la rama: Joshua_Fernandez
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
 ¿Por qué una comunidad necesita repetir procesos de revisión, seguimiento y verificación para tomar mejores decisiones?
-
 En tu respuesta menciona al menos dos de estas ideas:
-
 - seguimiento ciudadano
 - revisión de información
 - confianza comunitaria
@@ -19,3 +17,9 @@ En tu respuesta menciona al menos dos de estas ideas:
 - responsabilidad digital
 
 Respuesta:
+Una comunidad necesita repetir constantemente los procesos de revisión y verificación porque la toma de decisiones colectivas no es un evento aislado,
+sino un proceso continuo. A través de la constante revisión de información, los ciudadanos pueden validar que los datos en los que se fundamentan los
+proyectos públicos sean reales y vigentes, lo cual resulta fundamental para la prevención de desinformación. Asimismo, implementar un riguroso seguimiento
+ciudadano permite evaluar si las propuestas y los compromisos adquiridos por los líderes se están cumpliendo adecuadamente a lo largo del tiempo.
+Al normalizar estas dinámicas repetitivas de control, se fortalece de forma directa la transparencia de los procesos institucionales, lo que a su vez
+incrementa la confianza comunitaria y motiva una participación sostenida de la población en la mejora de su propio entorno.
